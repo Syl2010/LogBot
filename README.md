@@ -1,0 +1,1 @@
+Gère toutes les infomations statistiques sur les personnes et gère les rôles (automatique ou manuel).
