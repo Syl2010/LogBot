@@ -1,1 +1,1 @@
-Gère toutes les infomations statistiques sur les personnes et gère les rôles (automatique ou manuel).
+Projet déplacé ici : https://git.syl2010.fr
